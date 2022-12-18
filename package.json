@@ -36,11 +36,11 @@
   },
   "icon": "icon.png",
   "repository": {
-    "url": "https://github.com/DarkMannn/dark-sand-vscode-theme",
+    "url": "https://github.com/DarkMannn/green-moss-vscode-theme",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/DarkMannn/dark-sand-vscode-theme/issues"
+    "url": "https://github.com/DarkMannn/green-moss-vscode-theme/issues"
   },
   "license": "MIT"
 }

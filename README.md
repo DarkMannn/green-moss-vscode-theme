@@ -4,9 +4,9 @@
 
 A calming vscode color theme based on the colors of moss and nature.
 
-![moss](https://drive.google.com/uc?export=view&id=1oZ8jOwocJhxL6v47jZUtr5boCKUiqq3m)
+![moss](https://drive.google.com/uc?export=view&id=1ChF3nzLUTi6ejtS4zY-9raiQcsmiRcsD)
 
-![theme preview](https://drive.google.com/uc?export=view&id=12GfIuLZz91DDGEan_2QgWQvqZSE0hw1R)
+![theme preview](https://drive.google.com/uc?export=view&id=1pa4U7dxIOSYkZs1vl7TtUtiEbNbb0NMl)
 
 </div>
 
@@ -19,11 +19,11 @@ A calming vscode color theme based on the colors of moss and nature.
 
 ## Contributing
 
-Please report any issues [here](https://github.com/DarkMannn/dark-sand-vscode-theme/issues).
+Please report any issues [here](https://github.com/DarkMannn/green-moss-vscode-theme/issues).
 
 ## License
 
-This theme is released under the [MIT License](https://github.com/DarkMannn/dark-sand-vscode-theme/blob/main/LICENSE.md).
+This theme is released under the [MIT License](https://github.com/DarkMannn/green-moss-vscode-theme/blob/main/LICENSE.md).
 
 ## Author
 
