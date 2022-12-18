@@ -1,0 +1,46 @@
+{
+  "name": "green-moss-theme",
+  "displayName": "Green Moss Color Theme",
+  "description": "A calming vscode color theme based on the colors of moss",
+  "version": "0.0.1",
+  "publisher": "DarkMannn",
+  "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "moss",
+    "forest",
+    "nature",
+    "green",
+    "olive",
+    "calming",
+    "calm",
+    "relaxing",
+    "relax",
+    "saturated",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Green Moss Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Green Moss Theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/DarkMannn/dark-sand-vscode-theme",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkMannn/dark-sand-vscode-theme/issues"
+  },
+  "license": "MIT"
+}
