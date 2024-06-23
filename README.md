@@ -4,9 +4,9 @@
 
 A calming vscode color theme based on the colors of moss and nature.
 
-![moss](https://drive.google.com/uc?export=view&id=1ChF3nzLUTi6ejtS4zY-9raiQcsmiRcsD)
+![moss](https://imgur.com/jg5nu2b.png)
 
-![theme preview](https://drive.google.com/uc?export=view&id=1pa4U7dxIOSYkZs1vl7TtUtiEbNbb0NMl)
+![theme preview](https://imgur.com/WENqeLs.png)
 
 </div>
 
